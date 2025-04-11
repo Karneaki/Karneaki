@@ -1,11 +1,11 @@
 ## Hi i`m João Novak 👋
-## 🎯 Profissional 
-Desenvolvedor Front-End com 2 anos de experiência. Atuação em projetos de apps e sistemas web utilizando Flutter e Angular.  
-Experiência com Firebase e integração de APIs. Fluente em inglês, boa comunicação e familiaridade com metodologias ágeis.  
-Sempre em busca de soluções escaláveis, com foco em performance e boas práticas de código.
 # 💫 About Me:
-🔭 I’m currently studying software engineering<br>🤝 I’m looking to learn the most i can <br>🌱 I’m currently learning react and python<br>⚡ Fun fact i’m from Brazil and our democracy is in shambles
-
+🔭 I’m currently studying software engineering<br>🤝 I’m looking to learn the most i can <br>🌱 I’m currently learning react and python<br>⚡ Fun fact i’m from Brazil and i love brazilian style pizza<br>
+I've been working professionally with front-end development for 2 years and coding overall for 6.
+I have experience developing web and mobile applications using Angular and Flutter.
+Skilled with Firebase and API integrations.
+Fluent in English, with strong communication skills and hands-on experience with agile methodologies.
+Always seeking scalable solutions, focusing on reliability and best coding practices.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-novak-5a3b00239/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:novak.joaovitor@gmail.com) 
