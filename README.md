@@ -1,4 +1,4 @@
-## Hi there 👋<br>
+## Hi i`m João Novak 👋
 ## 🎯 Profissional 
 Desenvolvedor Front-End com 2 anos de experiência. Atuação em projetos de apps e sistemas web utilizando Flutter e Angular.  
 Experiência com Firebase e integração de APIs. Fluente em inglês, boa comunicação e familiaridade com metodologias ágeis.  
